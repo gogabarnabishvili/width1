@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+div {
+    margin: 10px;
+}
+.box-1 {
+    width: 300px;
+    height: 400px;
+    background-color: #2f8141;
+}
+.box-2 {
+    width: 571px;
+    height: 140px;
+    background-color: #13513b;
+}
+.box-3 {
+    width: 571px;
+    height: 140px;
+    background-color: #e624bb;
+}
+.box-4 {
+    width: 571px;
+    height: 140px;
+    background-color: #55ef0d;
+}
